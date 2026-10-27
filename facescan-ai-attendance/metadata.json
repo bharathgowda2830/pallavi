@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Attendance System",
+  "description": "Smart Attendance System with real-time facial recognition, anti-spoofing blink liveness detection, Supabase pgvector embedding matching, and reporting dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
